@@ -5,3 +5,5 @@
 
 <h2>Semana 2:</h2>
 	Cumulative Sum: http://www.spoj.com/problems/CSUMQ/ <br>
+ 	OBI 2018: Troca(2) <br>
+ 	
