@@ -6,5 +6,5 @@
 <h2>Semana 2:</h2>
 	Cumulative Sum: http://www.spoj.com/problems/CSUMQ/ <br>
  	OBI 2018: Troca(2) <br>
-  	Busca Binária: frog_jumps
+  	Busca Binária: frog_jumps, K-th Not Divisible by n
  	
