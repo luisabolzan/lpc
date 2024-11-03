@@ -8,3 +8,8 @@
  	OBI 2018: Troca(2) <br>
   	Busca Binária: frog_jumps, K-th Not Divisible by n
  	
+<h2>Semana 3:</h2>
+	Calculando
+ 	Flores de Fogo
+  	Retangulo
+  	
